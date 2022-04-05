@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tshirt-doge
 - 👀 I’m interested in tech stuff, good movies, borking?
 - 🌱 I’m currently learning scalable software architecture
-- 💞️ I’m looking to collaborate on nothing at the moment
+- 💞️ I’m looking to collaborate on opensource projects that can help people for free
 - 📫 How to reach me, send me a letter!
 
 <!---
